@@ -4,16 +4,15 @@ Yassen
 
 ## Jour 4 (Jeudi 5 Décembre 2024) :
 
-
-- [ ] Comprendre le fonctionnement de Git
-  - [ ] Comprendre le staging de Git
-  - [ ] Comprendre le fonctionnent et l'utilité des commandes de bases de Git :
-    - [ ] git init
-    - [ ] git add
-    - [ ] git status
-    - [ ] git commit
-    - [ ] git remote
-    - [ ] git pull
-    - [ ] git push
-    - [ ] git clone
-- [ ] Faire le parcours Git-it (Nodeschool.io)
+- [x] Comprendre le fonctionnement de Git
+  - [x] Comprendre le staging de Git
+  - [x] Comprendre le fonctionnent et l'utilité des commandes de bases de Git :
+    - [x] git init
+    - [x] git add
+    - [x] git status
+    - [x] git commit
+    - [x] git remote
+    - [x] git pull
+    - [x] git push
+    - [x] git clone
+- [x] Faire le parcours Git-it (Nodeschool.io)
