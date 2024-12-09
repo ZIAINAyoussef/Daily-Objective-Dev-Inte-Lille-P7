@@ -4,10 +4,9 @@ Christopher
 
 ## Jour 6 (Lundi 9 Décembre 2024) :
 
-
 ### Git
 
-- [ ] Comprendre les termes "local", "origin" et "upstream"
+- [x] Comprendre les termes "local", "origin" et "upstream"
 - [ ] Forker le repo des dailys objectives
 - [ ] Faire ses premiers commits sur votre fork des daily objectives (plusieurs commits par jour pour les débutants)
 - [ ] Faire ses premiers pushs des daily-objectives sur son compte Github
